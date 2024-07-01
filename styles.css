@@ -1,41 +1,43 @@
-.container {
-  width: 70%;
-  margin: auto;
-  text-align: center;
-}
-
-.dice {
-  text-align: center;
-  display: inline-block;
-
-}
-
 body {
-  background-color: #393E46;
+  background-color: #393e46;
 }
+
+/* .header { */
+/*   border: 10px solid purple; */
+/* } */
+/**/
+/* .another-header { */
+/*   border: 10px solid blue; */
+/* } */
 
 h1 {
-  margin: 30px;
-  font-family: 'Lobster', cursive;
+  color: #4ecca3;
+  font-family: "Lobster", cursive;
+  font-weight: bolder;
+  font-size: 5rem;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
-  color: #4ECCA3;
 }
 
-p {
-  font-size: 2rem;
-  color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
+.text1,
+.text2 {
+  color: #4ecca3;
+  font-family: "Indie Flower";
+  font-weight: bolder;
+  font-size: 3rem;
+  text-shadow: 5px 0 #232931;
+}
+.footer-note {
+  color: white;
+  font-family: "Indie Flower";
 }
 
-img {
-  width: 80%;
-}
-
-footer {
-  margin-top: 5%;
-  color: #EEEEEE;
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
-
-}
+/* .container { */
+/*   border: 10px solid red; */
+/* } */
+/* h1 { */
+/*   border: 10px solid green; */
+/* } */
+/**/
+/* .mine { */
+/*   border: 10px solid yellow; */
+/* } */
